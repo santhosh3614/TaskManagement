@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.elixir.taskmanagement.ManagersHomeActivity">
+    <item android:id="@+id/signout" android:title="@string/signout"
+        android:icon="@android:drawable/btn_dialog"
+        android:orderInCategory="100" android:showAsAction="always" />
+</menu>

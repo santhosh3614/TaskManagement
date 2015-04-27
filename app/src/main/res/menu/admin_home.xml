@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/add_pro_mgr" android:title="@string/add_manager"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/add_dev" android:title="@string/add_developer"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/add_Project" android:title="@string/add_project"
+        android:orderInCategory="100" android:showAsAction="never" />
+    <item android:id="@+id/signout" android:title="@string/signout"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
